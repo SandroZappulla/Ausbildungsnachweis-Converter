@@ -1,5 +1,6 @@
 # Python Ausbildungsnachweis PDF Converter
 # Author: Sandro Zappulla
+# Github: @SandroZappulla
 # version: v0.3
 
 # IMPORT
