@@ -10,10 +10,10 @@ from docx2pdf import convert
 # Ausbildungsnachweis Converter
 print("Ausbildungsnachweis Converter von Sandro Zappulla")
 print("-------------------------------------------------")
-# Abfrage Counter
+# asking for the start value
 print("Ab Welcher Kalenderwoche soll die Konvertierung starten?")
 kalender_woche_counter = int(input())
-# Abfrage Max Wert
+# asking for the maximum value
 print("Bis zur Welcher Kalenderwoche soll Konvertiert werden?")
 kalender_woche_max = int(input())
 
